@@ -42,4 +42,4 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 </p>
 
 ---
-[LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID/) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/sunilkunchoor/) | [Portfolio](https://your-portfolio-link.com)
