@@ -11,7 +11,7 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 
 ---
 
-### **🚀 Featured Projects **
+### **🚀 Featured Projects**
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
