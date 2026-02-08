@@ -34,6 +34,18 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 
 ---
 
+### **🏆 Certifications & Education**
+
+| **Credential** | **Issuer** | **Badges/Portfolio** |
+| :--- | :--- | :--- |
+| 🏅 **Databricks Data, ML, and GenAI ** | Databricks | [Link](https://www.credential.net/profile/sunilkunchoor/) |
+| 🏅 **IBM Data Science Specialization ** | Coursera | [Link](https://coursera.org/share/1d8c22add8a9d639e0047b765798c133) |
+| 🏅 **GitHub Actions** | GitHub | | [Link]([https://www.credential.net/profile/sunilkunchoor/](https://www.credly.com/badges/ebfdf196-e4da-4b88-bb0f-9b689d82a2cf/public_url)) |
+| 🎓 **Post Graduate Program in AI & ML** | University of Texas, Austin (Great Learning) | [Link](https://eportfolio.mygreatlearning.com/sunil-kunchoor-basavaraju) |
+| 🎓 **Master of Science (Mathematics)** | Bangalore University | - |
+
+---
+
 ### **📈 GitHub Stats**
 
 <p align="left">
