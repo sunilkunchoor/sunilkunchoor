@@ -37,8 +37,8 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 ### **📈 GitHub Stats**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=skunchoor&show_icons=true&theme=radical" alt="Sunil's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunchoor&layout=compact&theme=radical" alt="Top Langs" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sunilkunchoor&show_icons=true&theme=radical" alt="Sunil's Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkunchoor&layout=compact&theme=radical" alt="Top Langs" width="400" />
 </p>
 
 ---
