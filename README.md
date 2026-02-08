@@ -46,12 +46,15 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 
 ---
 
-### **📈 GitHub Stats**
+### **🧠 My MLOps Philosophy**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilkunchoor&show_icons=true&theme=radical" alt="Sunil's Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkunchoor&layout=compact&theme=radical" alt="Top Langs" width="400" />
-</p>
+I believe that MLOps is about **Engineering Rigor**, not just writing scripts. My work is guided by four principles:
+
+1.  **Zero-Friction for Data Scientists:** My goal is to abstract away the infrastructure (Kubernetes, Docker) so Data Scientists can focus purely on Modeling and Mathematics, not plumbing.
+2.  **Structure Begets Speed:** Ad-hoc scripts don't scale. I enforce strict project structures and CI/CD templates to ensure that every deployment is repeatable, audit-ready, and automated.
+3.  **Guardrails Enable Confidence:** Strict governance (like "Traffic Light" validation) allows teams to deploy faster, knowing that safety checks are baked into the pipeline.
+4.  **Frugal Architecture:** Cloud costs should not grow linearly with model usage. I prioritize optimized inference (ONNX/Quantization) to keep bills low.
 
 ---
+
 [LinkedIn](https://www.linkedin.com/in/sunilkunchoor/) | [Portfolio](https://your-portfolio-link.com)
