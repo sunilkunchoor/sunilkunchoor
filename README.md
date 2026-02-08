@@ -11,13 +11,13 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 
 ---
 
-### **🚀 Featured Projects (The "Retail Intelligence" Suite)**
+### **🚀 Featured Projects **
 
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
 | [**🚦 MLOps Traffic Light**](https://github.com/skunchoor/traffic-light-governance) | **Automated Model Governance System**<br>A GitHub Action that acts as a "Gatekeeper" for PRs. It validates Code Quality, Security (Snyk/Semgrep), and Model Performance before allowing a merge. | `Python` `GitHub Actions` `PyTest` `Snyk` |
-| [**🧞 AdGenie LLMOps**](https://github.com/skunchoor/ad-genie-llm) | **GenAI Pipeline with "Prompts as Code"**<br>An end-to-end LLM lifecycle management system. Features automated evaluation loops using GPT-4 as a judge to grade prompt changes. | `LangChain` `MLflow` `OpenAI` `Azure` |
-| [**👁️ Retail-Lens Edge**](https://github.com/skunchoor/retail-lens-edge) | **Self-Healing Computer Vision**<br>An Edge Inference container (ONNX) that detects "Data Drift" in real-time. Automatically captures low-confidence images and syncs them to the cloud for retraining. | `ONNX Runtime` `Docker` `OpenCV` `Azure Blob` |
+| [**🧞 AdGenie LLMOps**](https://github.com/skunchoor/ad-genie) | **GenAI Pipeline with "Prompts as Code"**<br>An end-to-end LLM lifecycle management system. Features automated evaluation loops using GPT-4 as a judge to grade prompt changes. | `LangChain` `MLflow` `OpenAI` `Azure` |
+| [**👁️ Retail-Lens**](https://github.com/skunchoor/retail-lens) | **AI-Powered Smart Shelf Assistant**<br>Empowers employees to quickly identify and rectify issues like out-of-stock items, misplaced products, and incorrect price tags, ultimately improving store efficiency and customer satisfaction. | `Azure Vision` `Docker` `OpenCV` `Azure Blob` |
 
 ---
 
