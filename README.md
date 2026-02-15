@@ -57,4 +57,4 @@ I believe that MLOps is about **Engineering Rigor**, not just writing scripts. M
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/sunilkunchoor/) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/sunilkunchoor/) | [Portfolio](https://sunilkunchoor.github.io/)
