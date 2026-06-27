@@ -16,6 +16,7 @@ I bridge the gap between **Data Science innovation** and **Production reliabilit
 | **Project** | **Description** | **Tech Stack** |
 | :--- | :--- | :--- |
 | [**🚦 MLOps Traffic Light**](https://github.com/skunchoor/traffic-light-governance) | **Automated Model Governance System**<br>A GitHub Action that acts as a "Gatekeeper" for PRs. It validates Code Quality, Security (Snyk/Semgrep), and Model Performance before allowing a merge. | `Python` `GitHub Actions` `PyTest` `Snyk` |
+| [**🚦 Dynatrace DevOps Monitor**](https://github.com/skunchoor/dt-devops-monitor) | **Monitor your DevOps**<br>Unified telemetry sender for all pipeline stages. Easily send metrics and events to Dynatrace from your GitHub Actions workflows.. | `Python` `GitHub Actions` `Dynatrace` |
 | [**🧞 AdGenie LLMOps**](https://github.com/skunchoor/ad-genie) | **GenAI Pipeline with "Prompts as Code"**<br>An end-to-end LLM lifecycle management system. Features automated evaluation loops using GPT-4 as a judge to grade prompt changes. | `LangChain` `MLflow` `OpenAI` `Azure` |
 | [**👁️ Retail-Lens**](https://github.com/skunchoor/retail-lens) | **AI-Powered Smart Shelf Assistant**<br>Empowers employees to quickly identify and rectify issues like out-of-stock items, misplaced products, and incorrect price tags, ultimately improving store efficiency and customer satisfaction. | `Azure Vision` `Docker` `OpenCV` |
 
