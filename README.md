@@ -175,6 +175,8 @@ I operate on four non-negotiable principles that guide every platform I build:
 
 </div>
 
+</div>
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkunchoor&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
