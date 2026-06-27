@@ -1,61 +1,203 @@
-# Hi there, I'm Sunil 👋
+<div align="center">
 
-### **Senior MLOps Engineer | Azure & Databricks Architect | Retail AI Specialist**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&repeat=true&width=750&height=60&lines=Senior+MLOps+%26+AI+Platform+Engineer+%F0%9F%9A%80;Azure+%7C+Databricks+%7C+Edge+AI+Architect+%F0%9F%A7%A0;Building+Self-Healing+AI+for+Enterprise+Retail+%F0%9F%8F%AA;LLMOps+%7C+Model+Governance+%7C+Cost+Optimization+%E2%9A%96%EF%B8%8F" alt="Typing SVG" />
 
-I bridge the gap between **Data Science innovation** and **Production reliability**. With over 10 years of experience (3.5+ in MLOps), I specialize in building scalable, secure, and self-healing AI platforms for enterprise retail clients.
+<br/>
 
-- 🔭 I’m currently working on **MLOps & Edge AI Governance**
-- 🌱 I’m currently learning **Advanced RAG Architectures & Rust for MLOps**
-- 💬 Ask me about **Azure ML, Databricks, Model Governance, and Cost Optimization**
-- 📫 How to reach me: **[sunilkunchoor@gmail.com](mailto:sunilkunchoor@gmail.com)**
+**I bridge the gap between Data Science innovation and Production reliability.**  
+**10+ years of engineering experience · 3.5+ years in MLOps · Enterprise Retail AI**
+
+<br/>
+
+![Experience](https://img.shields.io/badge/10%2B_Years_Experience-0EA5E9?style=flat-square&logoColor=white)&nbsp;
+![MLOps](https://img.shields.io/badge/3.5%2B_Years_MLOps-8B5CF6?style=flat-square&logoColor=white)&nbsp;
+![Domain](https://img.shields.io/badge/Enterprise_Retail_AI-10B981?style=flat-square&logoColor=white)&nbsp;
+![Status](https://img.shields.io/badge/Open_To_Senior_%7C_Staff_Roles-F59E0B?style=flat-square&logoColor=white)
+
+</div>
 
 ---
 
-### **🚀 Featured Projects**
+## 🔭 What I'm Up To
 
-| **Project** | **Description** | **Tech Stack** |
+| | |
+|---|---|
+| 🏗️ **Building** | MLOps & Edge AI Governance platforms for enterprise retail |
+| 🎓 **Fellowship** | AI Performance Engineering @ **Nebius Academy** |
+| 🦀 **Learning** | Rust — for high-performance inference pipelines |
+| 💬 **Ask me about** | Azure ML · Databricks · Model Governance · Observability · Cost Optimization |
+| 📫 **Reach me** | [sunilkunchoor@gmail.com](mailto:sunilkunchoor@gmail.com) |
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚦 [MLOps Traffic Light](https://github.com/skunchoor/traffic-light-governance)
+**Automated Model Governance as Code**
+
+A GitHub Actions "Gatekeeper" that enforces a quality gate on every PR — validating code quality, security posture (Snyk/Semgrep), and model performance regressions before a single line reaches production.
+
+> *Inspired by the need to give teams confidence to deploy fast without breaking things.*
+
+`Python` `GitHub Actions` `PyTest` `Snyk` `Semgrep`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧞 [AdGenie LLMOps](https://github.com/skunchoor/ad-genie)
+**LLM Lifecycle Management with "Prompts as Code"**
+
+End-to-end LLM pipeline with automated evaluation loops — GPT-4 acts as a judge to score prompt quality, enabling data-driven prompt engineering at scale with full MLflow lineage tracking.
+
+> *Treating prompts with the same rigour as application code.*
+
+`LangChain` `MLflow` `OpenAI` `Azure` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [Dynatrace DevOps Monitor](https://github.com/skunchoor/dt-devops-monitor)
+**Unified Observability for ML Pipelines**
+
+A lightweight telemetry bridge that instruments every stage of a GitHub Actions ML workflow — sending metrics, traces, and events to Dynatrace for full pipeline visibility without vendor lock-in boilerplate.
+
+> *"You can't optimize what you can't observe."*
+
+`Python` `GitHub Actions` `Dynatrace` `OpenTelemetry`
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ [Retail-Lens](https://github.com/skunchoor/retail-lens)
+**AI-Powered Smart Shelf Vision**
+
+Computer vision system that empowers store associates to instantly identify out-of-stock items, misplaced products, and incorrect price tags — reducing shelf compliance issues in real time.
+
+> *Edge-deployed, store-floor ready.*
+
+`Azure Vision` `OpenCV` `Docker` `Python` `Edge AI`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
+
+**☁️ Cloud & Infrastructure**
+
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+
+**⚙️ MLOps & Data Platforms**
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_ML-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+**🤖 LLMOps & AI Frameworks**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenVINO](https://img.shields.io/badge/OpenVINO-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+**📊 Observability & Governance**
+
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+
+**🔧 CI/CD & Languages**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+---
+
+## 🧠 MLOps Philosophy
+
+> *MLOps is about **Engineering Rigour**, not just writing scripts.*
+
+I operate on four non-negotiable principles that guide every platform I build:
+
+| Principle | What It Means in Practice |
+|:---|:---|
+| **🎯 Zero-Friction for Data Scientists** | Abstract away Kubernetes, Docker, and infrastructure entirely. Data Scientists should think in models and mathematics — not YAML files. |
+| **🏗️ Structure Begets Speed** | Ad-hoc scripts don't scale to 50+ models in production. Enforcing strict project templates and CI/CD contracts makes every deployment repeatable, audit-ready, and automated. |
+| **🛡️ Guardrails Enable Confidence** | Strict governance (like the Traffic Light system) lets teams deploy faster — not slower — because safety is baked in, not bolted on. |
+| **💡 Frugal Architecture** | Cloud costs should not grow linearly with model usage. Optimised inference (ONNX, quantization, edge deployment) is not a nice-to-have; it's a first-class engineering concern. |
+
+---
+
+## 🏆 Certifications & Education
+
+| Credential | Issuer | Verification |
 | :--- | :--- | :--- |
-| [**🚦 MLOps Traffic Light**](https://github.com/skunchoor/traffic-light-governance) | **Automated Model Governance System**<br>A GitHub Action that acts as a "Gatekeeper" for PRs. It validates Code Quality, Security (Snyk/Semgrep), and Model Performance before allowing a merge. | `Python` `GitHub Actions` `PyTest` `Snyk` |
-| [**🚦 Dynatrace DevOps Monitor**](https://github.com/skunchoor/dt-devops-monitor) | **Monitor your DevOps**<br>Unified telemetry sender for all pipeline stages. Easily send metrics and events to Dynatrace from your GitHub Actions workflows.. | `Python` `GitHub Actions` `Dynatrace` |
-| [**🧞 AdGenie LLMOps**](https://github.com/skunchoor/ad-genie) | **GenAI Pipeline with "Prompts as Code"**<br>An end-to-end LLM lifecycle management system. Features automated evaluation loops using GPT-4 as a judge to grade prompt changes. | `LangChain` `MLflow` `OpenAI` `Azure` |
-| [**👁️ Retail-Lens**](https://github.com/skunchoor/retail-lens) | **AI-Powered Smart Shelf Assistant**<br>Empowers employees to quickly identify and rectify issues like out-of-stock items, misplaced products, and incorrect price tags, ultimately improving store efficiency and customer satisfaction. | `Azure Vision` `Docker` `OpenCV` |
+| 🏅 **Databricks — Data, ML & GenAI** | Databricks | [View Badge](https://www.credential.net/profile/sunilkunchoor/) |
+| 🏅 **IBM Data Science Professional Certificate** | Coursera / IBM | [View Badge](https://coursera.org/share/1d8c22add8a9d639e0047b765798c133) |
+| 🏅 **GitHub Actions** | GitHub | [View Badge](https://www.credly.com/badges/ebfdf196-e4da-4b88-bb0f-9b689d82a2cf/public_url) |
+| 🎓 **AI Performance Engineer Fellowship** | Nebius Academy | [View Badge](https://www.credly.com/users/sunilkunchoor/badges/credly) |
+| 🎓 **PGP in AI & ML** | UT Austin via Great Learning | [View Portfolio](https://eportfolio.mygreatlearning.com/sunil-kunchoor-basavaraju) |
+| 🎓 **M.Sc. Mathematics** | Bangalore University | — |
 
 ---
 
-### **🛠️ Technical Stack**
+## 📈 GitHub Stats
 
-**Cloud & Infrastructure**
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+<div align="center">
 
-**MLOps & Data**
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![OpenVINO](https://img.shields.io/badge/OpenVINO-5C2D91?style=for-the-badge&logo=intel&logoColor=white)
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=sunilkunchoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkunchoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
 
-**CI/CD & Governance**
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure Devops](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
+</div>
 
----
+<div align="center">
 
-### **🏆 Certifications & Education**
+<img src="https://streak-stats.demolab.com?user=sunilkunchoor&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 
-| **Credential** | **Issuer** | **Badges/Portfolio** |
-| :--- | :--- | :--- |
-| 🏅 **Databricks Data, ML, and GenAI ** | Databricks | [Link](https://www.credential.net/profile/sunilkunchoor/) |
-| 🏅 **IBM Data Science Specialization ** | Coursera | [Link](https://coursera.org/share/1d8c22add8a9d639e0047b765798c133) |
-| 🏅 **GitHub Actions** | GitHub | [Link](https://www.credly.com/badges/ebfdf196-e4da-4b88-bb0f-9b689d82a2cf/public_url) |
-| 🎓 **Post Graduate Program in AI & ML** | University of Texas, Austin (Great Learning) | [Link](https://eportfolio.mygreatlearning.com/sunil-kunchoor-basavaraju) |
-| 🎓 **Master of Science (Mathematics)** | Bangalore University | - |
+</div>
 
----
+<div align="center">
 
-### **🧠 My MLOps Philosophy**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkunchoor&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
 
-I believe that MLOps is about **Engineering Rigor**, not just writing scripts. My work is guided by four principles:
-
-1.  **Zero-Friction for Data Scientists:** My goal is to abstract away the infrastructure (Kubernetes, Docker) so Data Scientists can focus purely on Modeling and Mathematics, not plumbing.
-2.  **Structure Begets Speed:** Ad-hoc scripts don't scale. I enforce strict project structures and CI/CD templates to ensure that every deployment is repeatable, audit-ready, and automated.
-3.  **Guardrails Enable Confidence:** Strict governance (like "Traffic Light" validation) allows teams to deploy faster, knowing that safety checks are baked into the pipeline.
-4.  **Frugal Architecture:** Cloud costs should not grow linearly with model usage. I prioritize optimized inference (ONNX/Quantization) to keep bills low.
+</div>
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/sunilkunchoor/) | [Portfolio](https://sunilkunchoor.github.io/)
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunil_Kunchoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilkunchoor/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sunilkunchoor.github.io-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://sunilkunchoor.github.io/)
+[![Email](https://img.shields.io/badge/Email-sunilkunchoor%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilkunchoor@gmail.com)
+[![Credentials](https://img.shields.io/badge/Certifications-credential.net-10B981?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credential.net/profile/sunilkunchoor/)
+
+</div>
+
+<div align="center">
+
+*If you're building serious AI infrastructure and need someone who treats MLOps as a first-class engineering discipline — let's talk.*
+
+</div>
