@@ -128,7 +128,7 @@ End-to-end LLM pipeline with automated evaluation loops — GPT-4 acts as a judg
 <tr>
 <td width="50%" valign="top">
 
-#### ⚡ [Edge Compliance Inspector](https://github.com/sunilkunchoor/edge-compliance)
+#### 🧠 [AI-Powered QSR — Edge Compliance & Benchmarking](https://github.com/sunilkunchoor/edge-compliance)
 **AI Workloads at the Edge**
 
 Benchmarking study of small form factor hardware devices managing AI workloads deployed at the edge — covering inference latency, power, and model accuracy tradeoffs.
