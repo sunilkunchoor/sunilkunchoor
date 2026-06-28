@@ -221,31 +221,8 @@ I operate on four non-negotiable principles that guide every platform I build:
 | 🎓 **PGP in AI & ML** | UT Austin via Great Learning | [View Portfolio](https://eportfolio.mygreatlearning.com/sunil-kunchoor-basavaraju) |
 | 🎓 **M.Sc. Mathematics** | Bangalore University | — |
 
----
 
-## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=sunilkunchoor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkunchoor&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=sunilkunchoor&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
-
-</div>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sunilkunchoor&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="95%"/>
-
-</div>
-
----
 
 ## 🤝 Let's Connect
 
