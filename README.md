@@ -32,56 +32,118 @@
 
 ## 🚀 Featured Projects
 
+### 🧑‍💻 Personal
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 🚦 [MLOps Traffic Light](https://github.com/skunchoor/traffic-light-governance)
+#### 🚦 [MLOps Traffic Light](https://github.com/skunchoor/traffic-light-governance)
 **Automated Model Governance as Code**
 
-A GitHub Actions "Gatekeeper" that enforces a quality gate on every PR — validating code quality, security posture (Snyk/Semgrep), and model performance regressions before a single line reaches production.
+A GitHub Actions "Gatekeeper" enforcing quality gates on every PR — validating code quality, security (Snyk/Semgrep), and model performance before anything reaches production.
 
 > *Inspired by the need to give teams confidence to deploy fast without breaking things.*
 
 `Python` `GitHub Actions` `PyTest` `Snyk` `Semgrep`
 
 </td>
+<td width="33%" valign="top">
+
+#### 🛠️ [Airflow Custom Plugins](https://github.com/sunilkunchoor/airflow-custom-plugins)
+**Seamless Service Integrations for Airflow**
+
+Production-grade custom Airflow plugins for integrating with Azure and cloud services, with automated evaluation hooks and full MLflow lineage tracking.
+
+`Airflow` `Custom Plugins` `Python` `Azure`
+
+</td>
+<td width="33%" valign="top">
+
+#### 📡 [Dynatrace DevOps Monitor](https://github.com/skunchoor/dt-devops-monitor)
+**Unified Observability for ML Pipelines**
+
+Lightweight telemetry bridge instrumenting every stage of a GitHub Actions ML workflow — metrics, traces, and events to Dynatrace without vendor lock-in boilerplate.
+
+`Python` `GitHub Actions` `Dynatrace` `OpenTelemetry`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🏆 Hackathons
+
+<table>
+<tr>
 <td width="50%" valign="top">
 
-### 🧞 [AdGenie LLMOps](https://github.com/skunchoor/ad-genie)
-**LLM Lifecycle Management with "Prompts as Code"**
+#### 👁️ [Retail-Lens](https://github.com/skunchoor/retail-lens)
+**AI-Powered Smart Shelf Vision**
 
-End-to-end LLM pipeline with automated evaluation loops — GPT-4 acts as a judge to score prompt quality, enabling data-driven prompt engineering at scale with full MLflow lineage tracking.
+Computer vision system empowering store associates to instantly identify out-of-stock items, misplaced products, and incorrect price tags — reducing shelf compliance issues in real time.
 
-> *Treating prompts with the same rigour as application code.*
+> *Edge-deployed, store-floor ready.*
 
-`LangChain` `MLflow` `OpenAI` `Azure` `Python`
+`Azure Vision` `OpenCV` `Docker` `Python` `Edge AI`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛠️ [Serverless Model Profiler](https://github.com/sunilkunchoor)
+**CloudNative Hackathon · Nebius Academy**
+
+Serverless benchmarking suite that automatically spins up isolated model inference tasks in AWS Lambda containers to profile latency, cold-start, and memory drift.
+
+> *Profile first. Optimise with evidence.*
+
+`AWS Lambda` `Docker` `Python` `MLflow`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📡 [Dynatrace DevOps Monitor](https://github.com/skunchoor/dt-devops-monitor)
-**Unified Observability for ML Pipelines**
+#### 🧞 [AdGenie LLMOps](https://github.com/skunchoor/ad-genie)
+**LLM Lifecycle Management with "Prompts as Code"**
 
-A lightweight telemetry bridge that instruments every stage of a GitHub Actions ML workflow — sending metrics, traces, and events to Dynatrace for full pipeline visibility without vendor lock-in boilerplate.
+End-to-end LLM pipeline with automated evaluation loops — GPT-4 acts as a judge to score prompt quality, enabling data-driven prompt engineering at scale.
 
-> *"You can't optimize what you can't observe."*
+> *Treating prompts with the same rigour as application code.*
 
-`Python` `GitHub Actions` `Dynatrace` `OpenTelemetry`
+`LangChain` `MLflow` `OpenAI` `Azure` `Python`
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+</table>
+
+---
+
+### 🏢 Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚡ [Edge Compliance Inspector](https://github.com/sunilkunchoor/edge-compliance)
+**AI Workloads at the Edge**
+
+Benchmarking study of small form factor hardware devices managing AI workloads deployed at the edge — covering inference latency, power, and model accuracy tradeoffs.
+
+`Intel OpenVINO` `OpenCV` `Python` `Edge Hardware` `AWS` `NLP`
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [Retail-Lens](https://github.com/skunchoor/retail-lens)
-**AI-Powered Smart Shelf Vision**
+#### ⚡ [Skywalker](https://github.com/sunilkunchoor/skywalker)
+**Automated QA using Classification**
 
-Computer vision system that empowers store associates to instantly identify out-of-stock items, misplaced products, and incorrect price tags — reducing shelf compliance issues in real time.
+Fully automated QA analysis engine using Classification & Clustering — replacing manual defect triage with ML-driven categorisation at scale.
 
-> *Edge-deployed, store-floor ready.*
-
-`Azure Vision` `OpenCV` `Docker` `Python` `Edge AI`
+`Scikit-learn` `Python` `pandas` `numpy`
 
 </td>
 </tr>
