@@ -14,6 +14,11 @@
 ![Domain](https://img.shields.io/badge/Enterprise_Retail_AI-10B981?style=flat-square&logoColor=white)&nbsp;
 ![Status](https://img.shields.io/badge/Open_To_Senior_%7C_Staff_Roles-F59E0B?style=flat-square&logoColor=white)
 
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sunilkunchoor.github.io-0EA5E9?style=flat-square&logo=githubpages&logoColor=white)](https://sunilkunchoor.github.io/)&nbsp;
+[![AI Playground](https://img.shields.io/badge/🧪_AI_Playground-skunchoor.github.io-8B5CF6?style=flat-square&logo=githubpages&logoColor=white)](https://skunchoor.github.io/)
+
 </div>
 
 ---
@@ -221,15 +226,13 @@ I operate on four non-negotiable principles that guide every platform I build:
 | 🎓 **PGP in AI & ML** | UT Austin via Great Learning | [View Portfolio](https://eportfolio.mygreatlearning.com/sunil-kunchoor-basavaraju) |
 | 🎓 **M.Sc. Mathematics** | Bangalore University | — |
 
-
-
-
 ## 🤝 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sunil_Kunchoor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunilkunchoor/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-sunilkunchoor.github.io-0EA5E9?style=for-the-badge&logo=github&logoColor=white)](https://sunilkunchoor.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sunilkunchoor.github.io-0EA5E9?style=for-the-badge&logo=githubpages&logoColor=white)](https://sunilkunchoor.github.io/)
+[![AI Playground](https://img.shields.io/badge/AI_Playground-skunchoor.github.io-8B5CF6?style=for-the-badge&logo=githubpages&logoColor=white)](https://skunchoor.github.io/)
 [![Email](https://img.shields.io/badge/Email-sunilkunchoor%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sunilkunchoor@gmail.com)
 [![Credentials](https://img.shields.io/badge/Certifications-credential.net-10B981?style=for-the-badge&logo=acclaim&logoColor=white)](https://www.credential.net/profile/sunilkunchoor/)
 
