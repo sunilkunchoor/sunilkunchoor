@@ -5,11 +5,11 @@
 <br/>
 
 **I bridge the gap between Data Science innovation and Production reliability.**  
-**10+ years of engineering experience · 3.5+ years in MLOps · Enterprise Retail AI**
+**12+ years of engineering experience · 3.5+ years in MLOps · Enterprise Retail AI**
 
 <br/>
 
-![Experience](https://img.shields.io/badge/10%2B_Years_Experience-0EA5E9?style=flat-square&logoColor=white)&nbsp;
+![Experience](https://img.shields.io/badge/12%2B_Years_Experience-0EA5E9?style=flat-square&logoColor=white)&nbsp;
 ![MLOps](https://img.shields.io/badge/3.5%2B_Years_MLOps-8B5CF6?style=flat-square&logoColor=white)&nbsp;
 ![Domain](https://img.shields.io/badge/Enterprise_Retail_AI-10B981?style=flat-square&logoColor=white)&nbsp;
 ![Status](https://img.shields.io/badge/Open_To_Senior_%7C_Staff_Roles-F59E0B?style=flat-square&logoColor=white)
